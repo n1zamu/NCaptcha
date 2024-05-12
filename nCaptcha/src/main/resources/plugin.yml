@@ -1,0 +1,5 @@
+name: nCaptcha
+version: '1'
+main: wtf.n1zamu.NCaptcha
+author: n1zamu
+api-version: '1.16'
