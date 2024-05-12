@@ -26,7 +26,9 @@ NCaptcha — это важный плагин безопасности, пред
 ![Bukkit](https://img.shields.io/badge/-Bukkit-7B68EE?style=for-the-badge)
 
 ## Screenshots 📸
-
+![Example](https://github.com/n1zamu/NCaptcha/blob/main/screenshots/example.png)
+![Example](https://github.com/n1zamu/NCaptcha/blob/main/screenshots/example1.png)
+![Example](https://github.com/n1zamu/NCaptcha/blob/main/screenshots/example2.png)
 
 ### Installation 🌙
 
@@ -94,3 +96,6 @@ NCaptcha — это важный плагин безопасности, пред
 
 ### My Discord Tag: n1zamu
 ![Discord](https://img.shields.io/badge/-Discord-4169E1?style=for-the-badge&logo=discord&logoColor=FFFFFF)
+
+
+# ⭐Leave star on this project if you like this!
