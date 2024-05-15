@@ -1,6 +1,6 @@
 # NCaptcha README
 
-Welcome to the NCaptcha plugin README! NCaptcha is crafted for Minecraft servers, aiming to enhance server security by implementing a captcha challenge using an anvil interface for new players. This unique approach requires players to enter numbers displayed in a complex format, helping to thwart bots from automating entry.
+Welcome to the NCaptcha plugin README! NCaptcha is crafted for Minecraft servers, aiming to enhance server security by implementing a captcha challenge using an anvil interface for new players. This uique approach requires players to enter numbers displayed in a complex format, helping to thwart bots from automating entry.
 
 ## Table of Contents 📃
 
