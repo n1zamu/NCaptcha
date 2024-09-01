@@ -94,7 +94,7 @@ NCaptcha — это важный плагин безопасности, пред
 
 ## Contacts 🔊
 
-### My Discord Tag: n1zamu
+### My Discord Tag: _web3.0
 ![Discord](https://img.shields.io/badge/-Discord-4169E1?style=for-the-badge&logo=discord&logoColor=FFFFFF)
 
 
